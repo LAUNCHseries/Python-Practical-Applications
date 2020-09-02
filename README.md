@@ -1,2 +1,2 @@
 # Python-Practical-Applications
-Day Two: Digitalization Boogaloo
+Day Two: Snakes in the cloud
